@@ -29,8 +29,8 @@ def get_requirements() -> List[str]:
 setup(
     name="network_security",
     version="0.0.1",
-    author="Your Name",
-    author_email="you@example.com",
+    author="Pranjal Panigrahi",
+    author_email="panigrahipranjal32@gmail.com",
     description="Network security data-science utilities and pipelines",
     long_description="Longer project description can go here or load from README.md",
     long_description_content_type="text/markdown",
