@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: network_security
+Version: 0.0.1
+Author: Pranjal Panigrahi
+Author-email: panigrahipranjal32@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
