@@ -6,3 +6,4 @@ pymongo
 certifi
 matplotlib
 seaborn
+pymongo[srv]==3.11
